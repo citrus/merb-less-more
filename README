@@ -4,3 +4,7 @@ merb-less-more
 A plugin for the Merb framework that provides support for Less css.
 
 It's really just a port of the 'more' rails plugin.
+
+
+Less: 		http://lesscss.org/
+More Plugin: 	http://github.com/cloudhead/more

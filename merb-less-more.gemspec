@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{merb-less-more}
-  s.version = "0.0.1"
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Spencer Steffen"]
@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
      "lib/merb-less-more/controller_extension.rb",
      "lib/merb-less-more/more.rb"
   ]
-  s.homepage = %q{http://citrusme.com/}
+  s.homepage = %q{http://github.com/citrus/merb-less-more}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.6}
